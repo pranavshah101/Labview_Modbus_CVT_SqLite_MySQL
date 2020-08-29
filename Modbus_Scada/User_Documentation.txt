@@ -1,0 +1,21 @@
+6For project,
+
+Go to Main_Page.vi -> Run the VI
+
+
+In Main_Page.vi, Five buttons are given.
+
+1.Doors FB and Sensor Status.
+2.Doors FB and Sensor Status.
+3.Doors and Status
+4.OT Parameters
+5.OT Parameters SP
+
+Click on any of the five buttons and once you click on the five buttons you can view the VI's.
+
+
+MODBUS TCP Has been configured:
+
+PORT-502
+Slave ID-5
+IP ADDRESS=localhost
